@@ -1,4 +1,4 @@
-![Banner terminal](Terminal.png "About me")
+![Banner terminal](Terminal.gif "About me")
 
 <!---
 JosueCarrasco/JosueCarrasco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
